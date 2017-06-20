@@ -1,2 +1,2 @@
 # capstone
-Sign Language Translate Glove
+Sign Language Translate Glove.
